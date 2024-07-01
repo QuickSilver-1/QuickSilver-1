@@ -21,7 +21,7 @@ Hi there! I’m a passionate software developer who loves to learn and explore n
 <a href="https://github.com/QuickSilver-1/Hacaton/blob/main/bot.py" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://github.com/QuickSilver-1/NN-python-main" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://github.com/QuickSilver-1/tp_prusakov234" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://github.com/QuickSilver-1/BOT" target="_blank" rel="noreferrer"> <img src="https://github.com/QuickSilver-1/logo/blob/main/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://github.com/QuickSilver-1/BOT/blob/main/server.py" target="_blank" rel="noreferrer"> <img src="https://github.com/QuickSilver-1/logo/blob/main/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://github.com/QuickSilver-1/Hacaton/blob/main/bot.py" target="_blank" rel="noreferrer"> <img src="https://github.com/QuickSilver-1/logo/blob/main/sql-database-generic-svgrepo-com.svg" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
