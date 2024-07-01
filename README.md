@@ -7,7 +7,7 @@ Hi there! I’m a passionate software developer who loves to learn and explore n
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/697279657820684388" target="blank"><img align="center" src="https://github.com/QuickSilver-1/logo/blob/main/discord-icon-svgrepo-com.svg" alt="quicksilver11111" height="30" width="40" /></a>
-[@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
+<a href="https://t.me/Quicksilver11111" target="blank"><img align="center" src="https://github.com/QuickSilver-1/logo/blob/main/Telegram_2019_Logo.svg.png" alt="quicksilver11111" height="30" width="40" /></a>
 </p>
 
 
