@@ -8,6 +8,8 @@ Hi there! I’m a passionate software developer who loves to learn and explore n
 <p align="left">
 <a href="https://discordapp.com/users/697279657820684388" target="blank"><img align="center" src="https://github.com/QuickSilver-1/logo/blob/main/discord-icon-svgrepo-com.svg" alt="quicksilver11111" height="30" width="40" /></a>
 <a href="https://t.me/Quicksilver11111" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="quicksilver11111" height="30" width="40" /></a>
+<a href="https://vk.com/id221914113" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="quicksilver11111" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_roman_prusakov_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="quicksilver11111" height="30" width="40" /></a>
 </p>
 
 
