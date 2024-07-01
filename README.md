@@ -25,4 +25,6 @@ Hi there! I’m a passionate software developer who loves to learn and explore n
 <a href="https://github.com/QuickSilver-1/Hacaton/blob/main/bot.py" target="_blank" rel="noreferrer"> <img src="https://github.com/QuickSilver-1/logo/blob/main/sql-database-generic-svgrepo-com.svg" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
+write to me on any social networks if you want to suggest something
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Don't+worry+be+happy)](https://git.io/typing-svg)
