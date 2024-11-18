@@ -4,6 +4,8 @@
 
 Hi there! I’m a passionate software developer who loves to learn and explore new technologies. Currently, I’m actively studying various programming languages, debugging techniques, and software development best practices. My goal is to find an exciting opportunity where I can contribute my skills and continue growing as a developer. Let’s connect and collaborate! 🚀
 
+The best Project - <code>https://github.com/QuickSilver-1/QuickSilver-1</code>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/697279657820684388" target="blank"><img align="center" src="https://github.com/QuickSilver-1/logo/blob/main/discord-icon-svgrepo-com.svg" alt="quicksilver11111" height="30" width="40" /></a>
