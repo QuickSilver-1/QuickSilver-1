@@ -17,7 +17,7 @@ The best Project - <code>https://github.com/QuickSilver-1/StakeWolle</code>
 
 <h3 align="left">For HR - click on the picture and see the project with this technology</h3>
 <p align="left">
-<a href="https://github.com/QuickSilver-1/StakeWolle" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://github.com/QuickSilver-1/ShtrafovNet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://github.com/QuickSilver-1/BOT" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://github.com/QuickSilver-1/BigInt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://github.com/QuickSilver-1/Django-fridge" target="_blank" rel="noreferrer"> <img src="https://github.com/QuickSilver-1/logo/blob/main/django-icon-svgrepo-com.svg" alt="django" width="40" height="40"/> </a>
