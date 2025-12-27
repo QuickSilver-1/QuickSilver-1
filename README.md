@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Roman
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Golang Developer in Wildberries
+</h1>
 <h3 align="center">Bussiness and computer scince student from Higther School of Economics, Moscow</h3>
+<h3 align="center"</h3>
+
 
 Hi there! I’m a passionate software developer who loves to learn and explore new technologies. Currently, I’m actively studying various programming languages, debugging techniques, and software development best practices. My goal is to find an exciting opportunity where I can contribute my skills and continue growing as a developer. Let’s connect and collaborate! 🚀
 
